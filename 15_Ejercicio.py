@@ -9,5 +9,14 @@ A = int(input('Introducir un valor: '))
 B = int(input('Introducir un valor: '))
 
 
-if (A < 5):
-    A * 5
+print('A = ' , A)
+print('B = ' , B)
+
+# Intercambio de valores
+temp = A
+A = B
+B = temp
+
+print('Valores intercambiados')
+print('A = ' , A)
+print('B = ' , B)
