@@ -7,6 +7,7 @@ import math
 cateto_b = float(input('Introduce el cateto b: '))
 cateto_c = float(input('Introduce el cateto c: '))
 
-hipotenusa = int(math.sqrt((cateto_b ** 2) + (cateto_c ** 2)))
+hipotenusa = math.sqrt(cateto_b ** 2 + cateto_c ** 2)
 
-print('El resultado es: ' + str(hipotenusa))
+# %.2f lo que va hacer es devolver el valor pero con dos decicmales 
+print('El resultado es %.2f' % hipotenusa)

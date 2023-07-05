@@ -12,7 +12,7 @@ B = int(input('Introducir un valor: '))
 print('A = ' , A)
 print('B = ' , B)
 
-# Intercambio de valores
+# para intercambair valores, necesitamos una variable auxiliar
 temp = A
 A = B
 B = temp
