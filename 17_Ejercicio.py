@@ -5,27 +5,16 @@
     Escribir un algoritmo que determine la hora de llegada a la ciudad B.
 '''
 
-from datetime import datetime, timedelta
+HH_start = int(input('Hora de salida: '))
+MM_start = int(input('Minutos de salida: '))
+SS_start = int(input('Segundos de salida: '))
+SS_travel = int(input('Tiempo del viaje en Segundos: '))
 
+seg_start = HH_start*3600 + MM_start*60 + SS_start
+time_total = seg_start + SS_travel;
 
-time_start = input('Time de salida: ')
-time_travel = input('Tiempo del viaje: ')
+hora_final = time_total // 3600;
+mini_final = (time_total % 3600) // 60;
+seg_final = (time_total % 3600) % 60;
 
-seg_start = time_start[0]*3600 + time_start[1]*60 + time_start[2] 
-
-
-
-
-
-
-
-
-hora_start = '10:24:36'
-time_trip = '01:54:10'
-
-time_start = datetime.strptime(hora_start, '%H:%M:%S')
-time_end = datetime.strptime(time_trip, '%H:%M:%S')
-
-time_finish = time_start + timedelta(hours=time_end.hour, minutes=time_end.minute, seconds=time_end.second)
-
-print('La hora de llegada es: ', time_finish)
+print('Hora de llegada: ',hora_final,':',mini_final,':',seg_final)
