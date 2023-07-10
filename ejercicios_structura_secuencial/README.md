@@ -11,7 +11,7 @@
         <dt>Ejercicio 5</dt>
         <dd>Escribir un programa que convierta un valor dado en grados Fahrenheit a grados Celsius. Recordar que la fórmula para la conversión es: 
             ```javascript
-            C = (F-32)*5/9
+                C = (F-32)*5/9
             ```
         </dd>
         <dt>Ejercicio 6</dt>
