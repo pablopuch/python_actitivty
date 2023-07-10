@@ -68,20 +68,7 @@
         <dd>Escribe un programa que pida un número entero entre uno y doce e imprima el número de días que tiene el mes correspondiente.</dd>
         <dt>Ejercicio 20</dt>
         <dd>Una compañía de transporte internacional tiene servicio en algunos países de América del Norte, América Central, América del Sur, Europa y Asia. El costo por el servicio de transporte se basa en el peso del paquete y la zona a la que va dirigido. Lo anterior se muestra en la tabla:</dd>
-
-<style>
-        table {
-            font-family: arial, sans-serif;
-            border-collapse: collapse;
-            width: 100%;
-        }
-
-        d, th {
-            border: 1px solid #dddddd;
-            text-align: left;
-            padding: 8px;
-        }
-</style>
+        
 <table>
         <tr>
             <th>Zona</th>
