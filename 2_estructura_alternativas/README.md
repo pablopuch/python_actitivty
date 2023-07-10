@@ -67,7 +67,7 @@
                 ```javascript
                     Introduzca número del dado: 5
                     En la cara opuesta está el "dos".
-                ```
+                
 
         <dt>Ejercicio 18</dt>
         <dd>Realiza un programa que pida el día de la semana (del 1 al 7) y escriba el día correspondiente. Si introducimos otro número nos da un error.</dd>
