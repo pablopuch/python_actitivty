@@ -63,32 +63,27 @@
                 <li>Nota 2: Si el número del dado introducido es menor que 1 o mayor que 6, se mostrará el mensaje: “ERROR: número incorrecto.”.</li>
             </ul>
             <p>Ejemplo:</p>
-
-                ```javascript
-                    Introduzca número del dado: 5
-                    En la cara opuesta está el "dos".
-                
-
-        <dt>Ejercicio 18</dt>
+ 
+<dt>Ejercicio 18</dt>
         <dd>Realiza un programa que pida el día de la semana (del 1 al 7) y escriba el día correspondiente. Si introducimos otro número nos da un error.</dd>
         <dt>Ejercicio 19</dt>
         <dd>Escribe un programa que pida un número entero entre uno y doce e imprima el número de días que tiene el mes correspondiente.</dd>
         <dt>Ejercicio 20</dt>
         <dd>Una compañía de transporte internacional tiene servicio en algunos países de América del Norte, América Central, América del Sur, Europa y Asia. El costo por el servicio de transporte se basa en el peso del paquete y la zona a la que va dirigido. Lo anterior se muestra en la tabla:</dd>
 
-        table {
+table {
             font-family: arial, sans-serif;
             border-collapse: collapse;
             width: 100%;
         }
 
-        td, th {
+td, th {
             border: 1px solid #dddddd;
             text-align: left;
             padding: 8px;
         }
 
-        <table>
+<table>
         <tr>
             <th>Zona</th>
             <th>Ubicación</th>
@@ -119,6 +114,6 @@
             <td>Asia</td>
             <td>18.00 euros</td>
         </tr>
-        </table>
-        <dd>Parte de su política implica que los paquetes con un peso superior a 5 kg no son transportados, esto por cuestiones de logística y de seguridad.Realice un algoritmo para determinar el cobro por la entrega de un paquete o, en su caso, el rechazo de la entrega.</dd>
+    </table>
+    <dd>Parte de su política implica que los paquetes con un peso superior a 5 kg no son transportados, esto por cuestiones de logística y de seguridad.Realice un algoritmo para determinar el cobro por la entrega de un paquete o, en su caso, el rechazo de la entrega.</dd>
 
