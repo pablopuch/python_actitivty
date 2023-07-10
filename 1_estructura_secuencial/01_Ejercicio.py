@@ -9,7 +9,9 @@ name = str(input('Hola, ¿cúal es tu nombre?: ')) # guardamos lo que usuario no
 input('Encantodo de saludarte ' + name) # imprimimos por pantalla y concatenamos con la variable
 
 
+
 '''----------------------------------------------------------------------------------------------------------------------'''
+
 
 
 # caso 2 (con validación)

@@ -1,4 +1,5 @@
-<h2>Ejercicios estructura secuencial</h2>
+# Ejercicios estructura secuencial
+
     <dl>
         <dt>Ejercicio 1</dt>
         <dd>Escribir un programa que pregunte al usuario su nombre, y luego lo salude</dd>

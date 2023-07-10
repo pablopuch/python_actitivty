@@ -1,4 +1,4 @@
-<h2>Ejercicios estructura alternativas</h2>
+# Ejercicios estructura alternativas
     <dl>
         <dt>Ejercicio 1</dt>
         <dd>Algoritmo que pida dos números e indique si el primero es mayor que el segundo o no.</dd>
@@ -61,7 +61,10 @@
             <ul>
                 <li>Nota 1: En las caras opuestas de un dado de seis caras están los números: 1-6, 2-5 y 3-4.</li>
                 <li>Nota 2: Si el número del dado introducido es menor que 1 o mayor que 6, se mostrará el mensaje: “ERROR: número incorrecto.”.</li>
-            </ul> 
+            </ul>
+            <p>Ejemplo:</p>
+                <p>Introduzca número del dado: 5</p>
+                <p>En la cara opuesta está el "dos".</p>
         <dt>Ejercicio 18</dt>
         <dd>Realiza un programa que pida el día de la semana (del 1 al 7) y escriba el día correspondiente. Si introducimos otro número nos da un error.</dd>
         <dt>Ejercicio 19</dt>
