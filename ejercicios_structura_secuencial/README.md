@@ -9,10 +9,8 @@
         <dt>Ejercicio 4</dt>
         <dd>Dados dos números, mostrar la suma, resta, división y multiplicación de ambos.</dd>
         <dt>Ejercicio 5</dt>
-        <dd>Escribir un programa que convierta un valor dado en grados Fahrenheit a grados Celsius. Recordar que la fórmula para la conversión es:</dd>
-            ```javascript
-                C = (F-32)*5/9
-            ```
+        <dd>Escribir un programa que convierta un valor dado en grados Fahrenheit a grados Celsius. Recordar que la fórmula para la conversión es:<br/>
+            C = (F-32)*5/9</dd>
         <dt>Ejercicio 6</dt>
         <dd>Calcular la media de tres números pedidos por teclado</dd>
         <dt>Ejercicio 7</dt>
