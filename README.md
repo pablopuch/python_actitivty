@@ -4,4 +4,4 @@
     </a>
 </p>
 
-# Esto son algunos de los ejercicios propuestos para entender y estudiar el lenguaje de Python 
+# Ejercicios de Python
