@@ -5,9 +5,9 @@
 
 num = float(input('Introduce un numero:'))
 
-if(num == 0):
+if num == 0:
     print('El numero es 0')
-elif(num < 0):
+elif num < 0:
     print('El numero es negativo')
 else:
     print('El numero es positivo')

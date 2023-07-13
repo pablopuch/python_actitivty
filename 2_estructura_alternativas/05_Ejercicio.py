@@ -10,15 +10,13 @@ password = input('Contraseña: ')
 
 # 1º forma de resolver
 
-if (name == 'pepe' and password == 'asdasd'):
+if name == 'pepe' and password == 'asdasd':
     print('Has entrado en el sistema')
 else:
     print("Error, no tienes acceso")
 
 
-
 '''--------------------------------------------------------------------------------------------------'''
-
 
 
 # 2º forma de resolver
