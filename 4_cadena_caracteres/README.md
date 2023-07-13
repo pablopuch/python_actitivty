@@ -1,6 +1,6 @@
 # Ejercicios cadena de caracteres
 
-    <dl>
+<dl>
         <dt>Ejercicio 1</dt>
         <dd>Escribir por pantalla cada carácter de una cadena introducida por teclado.</dd>
         <dt>Ejercicio 2</dt>
@@ -21,4 +21,4 @@
         <dd>Realizar un programa que compruebe si una cadena contiene una subcadena. Las dos cadenas se introducen por teclado.</dd>
         <dt>Ejercicio 10</dt>
         <dd>Introducir una cadena de caracteres e indicar si es un palíndromo. Una palabra palíndroma es aquella que se lee igual adelante que atrás.</dd>
-    </dl>
+</dl>

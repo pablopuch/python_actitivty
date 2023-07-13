@@ -1,6 +1,6 @@
 # Ejercicios estructura secuencial
 
-    <dl>
+<dl>
         <dt>Ejercicio 1</dt>
         <dd>Escribir un programa que pregunte al usuario su nombre, y luego lo salude</dd>
         <dt>Ejercicio 2</dt>
@@ -42,4 +42,4 @@
         <dd>Escribir un algoritmo para calcular la nota final de un estudiante, considerando que por cada respuesta correcta se suman 5 puntos, por una incorrecta se resta 1 y por respuestas en blanco no se suma ni se resta. Imprime el resultado obtenido por el estudiante</dd>
         <dt>Ejercicio 20</dt>
         <dd>Diseñar un algoritmo que nos diga el dinero que tenemos (en euros y céntimos) después de pedirnos cuántas monedas tenemos (de 2€, 1€, 50 céntimos, 20 céntimos o 10 céntimos)</dd>
-    </dl>
+</dl>

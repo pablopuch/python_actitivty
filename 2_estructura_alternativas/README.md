@@ -1,5 +1,5 @@
 # Ejercicios estructura alternativas
-    <dl>
+<dl>
         <dt>Ejercicio 1</dt>
         <dd>Algoritmo que pida dos números e indique si el primero es mayor que el segundo o no.</dd>
         <dt>Ejercicio 2</dt>
