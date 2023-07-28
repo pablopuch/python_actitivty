@@ -5,9 +5,9 @@
 </p>
 
 ## Ejercicios de Python
-Estos ejercici me han ayuddado a mejorar mis conocimiento de programacíon de python y a mejorar la lojica de programacíon. En ellos encontrar ejercicios resultos de varias maneras, para ver de que forma se pueden ser mas utilices segun en que contextos.
+Estos ejercicios me han ayudado a mejorar mis conocimientos de programación de python y a mejorar la lógica de programación. En ellos encontrar ejercicios resueltos de varias maneras, para ver que forma se pueden ser más utilices según en qué contextos.
 
-Te animo a ir resolviendolos y que te sean de mucha utilidad.
+Te animo a ir resolviéndolos y que te sean de mucha utilidad.
 
 ## Índice
 1. [Estructura secuencial](#estructura-secuencial)
