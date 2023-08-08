@@ -11,10 +11,10 @@ Te animo a ir resolviéndolos y que te sean de mucha utilidad.
 
 ## Índice
 1. [Estructura secuencial](1_estructura_secuencial)
-2. [Estructura alternativas](#estructura-alternativas)
-3. [Estructura repetitivas](#estructura-repetitivas)
-4. [Cadena caracteres](#cadena-caracteres)
-5. [Listas](#listas)
-6. [Diccionarios](#diccionario)
-7. [Funciones](#funciones)
+2. [Estructura alternativas](2_estructura_alternativas)
+3. [Estructura repetitivas](3_estructura_repetitivas)
+4. [Cadena caracteres](4_cadena_caracteres)
+5. [Listas](5_listas)
+6. [Diccionarios](6_diccionario)
+7. [Funciones](7_funciones)
 
