@@ -10,7 +10,7 @@ Estos ejercicios me han ayudado a mejorar mis conocimientos de programación de 
 Te animo a ir resolviéndolos y que te sean de mucha utilidad.
 
 ## Índice
-1. [Estructura secuencial](#estructura-secuencial)
+1. [Estructura secuencial](1_estructura_secuencial)
 2. [Estructura alternativas](#estructura-alternativas)
 3. [Estructura repetitivas](#estructura-repetitivas)
 4. [Cadena caracteres](#cadena-caracteres)
