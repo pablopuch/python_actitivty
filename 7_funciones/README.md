@@ -76,12 +76,12 @@
             <li>EscribirPila: Función que recibe una pila y muestra en pantalla los elementos de la pila.</li>
         </ul>
         Realiza un programa principal que nos permita usar las funciones anteriores y que muestre un menú, con las siguientes opciones:
-        <ul>
-            <ol>Añadir elemento a la pila</ol>
-            <ol>Sacar elemento de la pila</ol>
-            <ol>Longitud de la pila</ol>
-            <ol>Mostrar pila</ol>
-            <ol>Salir</ol>
-        </ul>
+        <ol>
+            <li>Añadir elemento a la pila</li>
+            <li>Sacar elemento de la pila</li>
+            <li>Longitud de la pila</li>
+            <li>Mostrar pila</li>
+            <li>Salir</li>
+        </ol>
     </dd>
 </dl>
