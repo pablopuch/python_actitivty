@@ -33,5 +33,3 @@ max_year = max(list_year)
 for name, age in zip(list_name, list_year):
     if age == max_year:
         print(f'Alumno mayor: {name} con {age}')
-   
-    
