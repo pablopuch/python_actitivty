@@ -12,3 +12,9 @@ Te animo a ir resolviéndolos y que te sean de mucha utilidad.
 ## Índice
 1. [Estructura secuencial](#estructura-secuencial)
 2. [Estructura alternativas](#estructura-alternativas)
+3. [Estructura repetitivas](#estructura-repetitivas)
+4. [Cadena caracteres](#cadena-caracteres)
+5. [Listas](#listas)
+6. [Diccionarios](#diccionario)
+7. [Funciones](#funciones)
+
