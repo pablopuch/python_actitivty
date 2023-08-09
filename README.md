@@ -18,3 +18,8 @@ Te animo a ir resolviéndolos y que te sean de mucha utilidad.
 6. [Diccionarios](6_diccionario)
 7. [Funciones](7_funciones)
 
+## Instalación
+
+Clonar repositorio
+
+    git clone https://github.com/pablopuch/python_actitivty.git
